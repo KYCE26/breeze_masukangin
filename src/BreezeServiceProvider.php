@@ -1,6 +1,6 @@
 <?php
 
-namespace Laravel\Breeze;
+namespace Kyce26\BreezeMasukangin;
 
 use Illuminate\Contracts\Support\DeferrableProvider;
 use Illuminate\Support\ServiceProvider;
