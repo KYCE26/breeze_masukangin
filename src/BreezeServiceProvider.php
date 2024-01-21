@@ -4,6 +4,7 @@ namespace kyce26\breeze_masukangin;
 
 use Illuminate\Contracts\Support\DeferrableProvider;
 use Illuminate\Support\ServiceProvider;
+use kyce26\breeze_masukangin\Console\InstallCommand;
 
 class BreezeServiceProvider extends ServiceProvider implements DeferrableProvider
 {
@@ -14,7 +15,12 @@ class BreezeServiceProvider extends ServiceProvider implements DeferrableProvide
      */
     public function register()
     {
-        //
+        if ($this->app->runningInConsole()) {
+            $this->commands([
+                InstallCommand::class,
+            ]);
+        }
+
     }
 
     /**
