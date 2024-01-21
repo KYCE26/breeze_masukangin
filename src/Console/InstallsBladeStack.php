@@ -1,6 +1,6 @@
 <?php
 
-namespace Kyce26\BreezeMasukangin\Console;
+namespace kyce26\breeze_masukangin\Console;
 
 use Illuminate\Filesystem\Filesystem;
 use Symfony\Component\Finder\Finder;
