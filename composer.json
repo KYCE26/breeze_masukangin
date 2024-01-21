@@ -29,7 +29,7 @@
         "branch-alias": {
             "dev-master": "1.x-dev"
         },
-        "laravel": {
+        "kyce26": {
             "providers": [
                 "kyce26\\breeze_masukangin\\BreezeServiceProvider"
             ]
