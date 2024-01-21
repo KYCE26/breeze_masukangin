@@ -15,12 +15,7 @@ class BreezeServiceProvider extends ServiceProvider implements DeferrableProvide
      */
     public function register()
     {
-        if ($this->app->runningInConsole()) {
-            $this->commands([
-                InstallCommand::class,
-            ]);
-        }
-
+//
     }
 
     /**
