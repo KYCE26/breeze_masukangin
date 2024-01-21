@@ -22,7 +22,7 @@
     },
     "autoload": {
         "psr-4": {
-            "kyce26\\breeze_masukangin\\": "src/"
+            "kyce26\\breezemasukangin\\": "src/"
         }
     },
     "extra": {
@@ -31,7 +31,7 @@
         },
         "kyce26": {
             "providers": [
-                "kyce26\\breeze_masukangin\\BreezeServiceProvider"
+                "kyce26\\breezemasukangin\\BreezeServiceProvider"
             ]
         }
     },

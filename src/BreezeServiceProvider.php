@@ -1,6 +1,6 @@
 <?php
 
-namespace kyce26\breeze_masukangin;
+namespace kyce26\breezemasukangin;
 
 use Illuminate\Contracts\Support\DeferrableProvider;
 use Illuminate\Support\ServiceProvider;

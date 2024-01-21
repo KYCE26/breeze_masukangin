@@ -1,6 +1,6 @@
 <?php
 
-namespace kyce26\breeze_masukangin\Console;
+namespace kyce26\breezemasukangin\Console;
 
 use Illuminate\Console\Command;
 use Illuminate\Contracts\Console\PromptsForMissingInput;
