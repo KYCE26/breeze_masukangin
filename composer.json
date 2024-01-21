@@ -31,7 +31,7 @@
         },
         "laravel": {
             "providers": [
-                "kyce26\\breeze_masukangin\\BreezeServiceProvider"
+                "kyce26\\breeze_masukangin\\src\\BreezeServiceProvider"
             ]
         }
     },
