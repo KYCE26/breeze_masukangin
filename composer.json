@@ -29,7 +29,7 @@
         "branch-alias": {
             "dev-master": "1.x-dev"
         },
-        "kyce26": {
+        "laravel": {
             "providers": [
                 "kyce26\\breeze_masukangin\\BreezeServiceProvider"
             ]
@@ -39,9 +39,5 @@
         "sort-packages": true
     },
     "minimum-stability": "dev",
-    "prefer-stable": true,
-    "require-dev": {
-        "orchestra/testbench": "^8.0",
-        "phpstan/phpstan": "^1.10"
-    }
+    "prefer-stable": true
 }

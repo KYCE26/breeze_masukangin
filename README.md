@@ -26,7 +26,7 @@ Terima kasih atas pertimbangan Anda untuk berkontribusi pada Breeze Masukangin! 
 
 ## Code of Conduct
 
-In order to ensure that the Laravel community is welcoming to all, please review and abide by the [Code of Conduct](https://laravel.com/docs/contributions#code-of-conduct).
+Untuk memastikan bahwa komunitas Laravel ramah terhadap semua orang, harap tinjau dan patuhi [Code of Conduct](https://laravel.com/docs/contributions#code-of-conduct).
 
 ## Kerentanan Keamanan
 
