@@ -1,16 +1,16 @@
 {
-    "name": "laravel/breeze",
-    "description": "Minimal Laravel authentication scaffolding with Blade and Tailwind.",
+    "name": "kyce26/breeze_masukangin",
+    "description": "Perancah otentikasi Laravel minimal dengan Blade",
     "keywords": ["laravel", "auth"],
     "license": "MIT",
     "support": {
-        "issues": "https://github.com/laravel/breeze/issues",
-        "source": "https://github.com/laravel/breeze"
+        "issues": "https://github.com/KYCE26/breeze_masukangin/issues",
+        "source": "https://github.com/KYCE26/breeze_masukangin"
     },
     "authors": [
         {
-            "name": "Taylor Otwell",
-            "email": "taylor@laravel.com"
+            "name": "MUHAMMAD RIFKY",
+            "email": "muhammad26rifky06@gmail.com"
         }
     ],
     "require": {
@@ -22,16 +22,16 @@
     },
     "autoload": {
         "psr-4": {
-            "Laravel\\Breeze\\": "src/"
+            "kyce26\\breeze_masukangin\\": "src/"
         }
     },
     "extra": {
         "branch-alias": {
             "dev-master": "1.x-dev"
         },
-        "laravel": {
+        "kyce26": {
             "providers": [
-                "Laravel\\Breeze\\BreezeServiceProvider"
+                "kyce26\\breeze_masukangin\\BreezeServiceProvider"
             ]
         }
     },
