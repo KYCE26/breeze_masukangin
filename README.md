@@ -1,39 +1,37 @@
-<p align="center"><img src="/art/logo.svg" alt="Logo Laravel Breeze"></p>
+
 
 <p align="center">
-    <a href="https://packagist.org/packages/laravel/breeze">
+    <a href="https://packagist.org/packages/kyce26/breeze_masukangin">
         <img src="https://img.shields.io/packagist/dt/laravel/breeze" alt="Total Downloads">
     </a>
-    <a href="https://packagist.org/packages/laravel/breeze">
+    <a href="https://packagist.org/packages/kyce26/breeze_masukangin">
         <img src="https://img.shields.io/packagist/v/laravel/breeze" alt="Latest Stable Version">
     </a>
-    <a href="https://packagist.org/packages/laravel/breeze">
+    <a href="https://packagist.org/packages/kyce26/breeze_masukangin">
         <img src="https://img.shields.io/packagist/l/laravel/breeze" alt="License">
     </a>
 </p>
 
-## Introduction
+## Pendahuluan
 
-Breeze provides a minimal and simple starting point for building a Laravel application with authentication. Styled with Tailwind, Breeze publishes authentication controllers and views to your application that can be easily customized based on your own application's needs.
+Breeze Masuk Angin adalah turunan dari Laravel Breeze. Ini menyediakan titik awal minimal dan sederhana untuk membangun aplikasi Laraveldengan otentikasi. Breeze Masukangin mempublikasikan pengontrol otentikasi dan tampilan ke aplikasi Anda yang dapat dengan mudah disesuaikan berdasarkan kebutuhan aplikasi Anda sendiri.
 
-Laravel Breeze is powered by Blade and Tailwind. If you're looking for a more robust Laravel starter kit that includes two factor authentication, Livewire / Inertia support, and more, check out [Laravel Jetstream](https://jetstream.laravel.com).
+## Dokumentasi Resmi
 
-## Official Documentation
+Karena Breeze Masuk Angin adalah turunan dari Laravel Breeze, sebagian besar dokumentasi Laravel Breeze juga berlaku di sini, oleh karena itu kami merekomendasikan dokumentasi Breeze yang dapat ditemukan di situs web Laravel. [Laravel website](https://laravel.com/docs/starter-kits#laravel-breeze).
 
-Documentation for Breeze can be found on the [Laravel website](https://laravel.com/docs/starter-kits#laravel-breeze).
+## Berkontribusi
 
-## Contributing
-
-Thank you for considering contributing to Breeze! You can read the contribution guide [here](.github/CONTRIBUTING.md).
+Terima kasih atas pertimbangan Anda untuk berkontribusi pada Breeze Masukangin! Anda dapat membaca panduan kontribusi di sini. [here](.github/CONTRIBUTING.md).
 
 ## Code of Conduct
 
 In order to ensure that the Laravel community is welcoming to all, please review and abide by the [Code of Conduct](https://laravel.com/docs/contributions#code-of-conduct).
 
-## Security Vulnerabilities
+## Kerentanan Keamanan
 
-Please review [our security policy](https://github.com/laravel/breeze/security/policy) on how to report security vulnerabilities.
+Silakan tinjau kebijakan keamanan kami tentang cara melaporkan kerentanan keamanan. [our security policy](https://github.com/laravel/breeze/security/policy) 
 
-## License
+## Lisensi
 
-Laravel Breeze is open-sourced software licensed under the [MIT license](LICENSE.md).
+Breeze Masuk Angin adalah perangkat lunak sumber terbuka berlisensi di bawah lisensi MIT. [MIT license](LICENSE.md).
